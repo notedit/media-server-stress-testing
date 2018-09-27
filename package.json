@@ -1,0 +1,24 @@
+{
+  "name": "media-server-stress-testing",
+  "version": "1.0.0",
+  "description": "media server stress testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notedit/media-server-stress-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notedit/media-server-stress-testing/issues"
+  },
+  "homepage": "https://github.com/notedit/media-server-stress-testing#readme",
+  "dependencies": {
+    "medooze-media-server": "^0.43.1",
+    "semantic-sdp": "^3.10.2",
+    "websocket": "^1.0.28"
+  }
+}
